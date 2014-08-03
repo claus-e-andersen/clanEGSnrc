@@ -5,7 +5,7 @@ Title: R functions for reading output from EGSnrc
 Author: Claus E. Andersen
 Maintainer: Claus E. Andersen <clan@dtu.dk>
 Description: An R library of functions for reading output from the Monte-Carlo
-    model EGSnrc
+    model EGSnrc.
 URL: www.dtu.dk
 Depends:
     R (>= 3.1.1)
