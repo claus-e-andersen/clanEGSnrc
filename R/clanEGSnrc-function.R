@@ -9,7 +9,7 @@
 clanOptim <- function(){
   list(name="clanEGSnrc",
        version=0.008,
-       date="August 3, 2014",
+       date="August 3, 2014 (uploaded Aug. 6, 2016)",
        functions=sort(c("clanEGSnrc",
                         "read.flurznrc.lst","read.egsnrc.plot"
        )))
