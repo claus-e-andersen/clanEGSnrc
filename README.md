@@ -10,3 +10,13 @@ R library of functions for reading and manipulation output from the Monte-Carlo 
    install_github("clanEGSnrc","claus-e-andersen")
    
    library(clanEGSnrc)
+
+
+To get a list of functions in the library, just call:
+
+help(package=clanEGSnrc)
+
+or
+
+library(help=clanEGSnrc)
+
