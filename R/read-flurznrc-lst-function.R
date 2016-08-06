@@ -141,7 +141,7 @@ read.flurznrc.lst <- function(file.path = "C://MC//egsnrc_mp//flurznrc",
   
   
   file.txt[data.starts]
-  trim.whitespace <- function (x) gsub("^\\s+|\\s+$", "", x)
+ 
   
   for(iii in 1:length(header.starts)){
     # Grand loop
