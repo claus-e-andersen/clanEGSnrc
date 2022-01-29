@@ -7,8 +7,8 @@ R library of functions for reading and manipulation output from the Monte-Carlo 
    
    library(devtools)
    
-   install_github("clanEGSnrc","claus-e-andersen")
-   
+   install_github("claus-e-andersen/clanEGSnrc")
+
    library(clanEGSnrc)
 
 
